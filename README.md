@@ -2,15 +2,15 @@
 
 
 1. Refer to the below endpoints, and return the top posts with most number of comments. 
-⋅⋅* comments endpoint – https://jsonplaceholder.typicode.com/comments
-..* View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
-..* View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
+	- comments endpoint – https://jsonplaceholder.typicode.com/comments
+	-  View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
+	-  View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
 
-The API response should have the following fields: 
-- post_id 
-- post_title
-- post_body 
-- total_number_of_comments
+- The API response should have the following fields: 
+	- post_id 
+	- post_title
+	- post_body 
+	- total_number_of_comments
 
 
 2. Search API 
