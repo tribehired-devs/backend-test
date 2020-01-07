@@ -14,7 +14,7 @@
 
 2. Search API 
 Create an endpoint that allows a user to filter the comments based on all the available fields. Your solution needs to be scalable. 
-⋅⋅* comments endpoint – https://jsonplaceholder.typicode.com/comments
+	- comments endpoint – https://jsonplaceholder.typicode.com/comments
 
 ## Notes
 
