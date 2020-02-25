@@ -1,7 +1,7 @@
 ## Build a REST API
 
 
-1. Refer to the below endpoints, and return the top posts with most number of comments. 
+1. Return the top posts with most number of comments. 
 	- comments endpoint – https://jsonplaceholder.typicode.com/comments
 	-  View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
 	-  View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
