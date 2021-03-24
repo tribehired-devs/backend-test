@@ -1,7 +1,10 @@
 ## Build a REST API
 
 
-1. Return a list of top posts ordered by the number of comments. Consume the API endpoints provided
+1. Return a list of Top Posts ordered by their number of Comments. 
+
+Consume the API endpoints provided: 
+
 	- comments endpoint – https://jsonplaceholder.typicode.com/comments
 	-  View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
 	-  View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
