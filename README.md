@@ -11,6 +11,7 @@ Consume the API endpoints provided:
 	
 
 Your API response should have the following fields: 
+
 		- post_id 
 		- post_title
 		- post_body 
