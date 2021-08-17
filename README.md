@@ -8,7 +8,9 @@ Consume the API endpoints provided:
 	- comments endpoint – https://jsonplaceholder.typicode.com/comments
 	-  View Single Post endpoint – https://jsonplaceholder.typicode.com/posts/{post_id}
 	-  View All Posts endpoint – https://jsonplaceholder.typicode.com/posts
-	- The API response should have the following fields: 
+	
+
+Your API response should have the following fields: 
 		- post_id 
 		- post_title
 		- post_body 
